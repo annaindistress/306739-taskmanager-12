@@ -1,7 +1,7 @@
 # Личный проект «Менеджер задач» [![Build status][travis-image]][travis-url]
 
 * Студент: [Анна Артемова](https://up.htmlacademy.ru/ecmascript/12/user/306739).
-* Наставник: `Неизвестно`.
+* Наставник: [Ксения Толстых](https://up.htmlacademy.ru/ecmascript/12/user/618277).
 
 ---
 
